@@ -1,2 +1,2 @@
 # LearnJs
-Working with javascript.
+Starting with javascript basics.
